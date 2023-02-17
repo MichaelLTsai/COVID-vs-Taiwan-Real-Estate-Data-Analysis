@@ -1,5 +1,5 @@
 # COVID-vs-Taiwan-Real-Estate-Data-Analysis
-Data analysis SQL &amp; Tableau side project 
+*Data analysis SQL &amp; Tableau side project*
 
 
 ## Task
@@ -12,7 +12,7 @@ Analyse COVID-19 data and its impact on Taiwan real estate market
 ## Data Tools
 - Python for Web scraping and file organizing -View [web scaping.py](https://github.com/MichaelLTsai/COVID-vs-Taiwan-Real-Estate-Data-Analysis/blob/62b96656b3eba25b0eeba8d15aa5ca4a15ffb748/Taiwan%20Real%20State%20Data%20,%20Pyhton,%20SQL%20script/Taiwan%20Real%20State%20Price%20Scraping.py), [file organizing.py](https://github.com/MichaelLTsai/COVID-vs-Taiwan-Real-Estate-Data-Analysis/blob/62b96656b3eba25b0eeba8d15aa5ca4a15ffb748/Taiwan%20Real%20State%20Data%20,%20Pyhton,%20SQL%20script/Taiwan%20Real%20State%20Price%20Scraping.py)
 - Microsoft SQL Server 2022 for data cleaning and data processing -View [COVID data cleaning SQL script](https://github.com/MichaelLTsai/COVID-vs-Taiwan-Real-Estate-Data-Analysis/blob/62b96656b3eba25b0eeba8d15aa5ca4a15ffb748/COVID%20new%20case%20dataset%20and%20SQL%20script/COVID%20Portfolio%20Project.sql), [Taiwan Real Estate SQL script](https://github.com/MichaelLTsai/COVID-vs-Taiwan-Real-Estate-Data-Analysis/blob/62b96656b3eba25b0eeba8d15aa5ca4a15ffb748/Taiwan%20Real%20State%20Data%20,%20Pyhton,%20SQL%20script/taiwan_real_state_smss_v2.sql)
-- Tableau Dashboard Visualization -View[dasboard](https://public.tableau.com/views/COVIDimpactonTaiwanRealEstate/Summary?:language=en-US&:display_count=n&:origin=viz_share_link)
+- Tableau Dashboard Visualization -View [dasboard](https://public.tableau.com/views/COVIDimpactonTaiwanRealEstate/Summary?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Data Process
 ![image](https://user-images.githubusercontent.com/108915606/219456182-7359354d-7bbc-4894-91a1-c04b62740a60.png)
