@@ -29,6 +29,6 @@ View on Youtube: [link](https://www.youtube.com/watch?app=desktop&v=1kS9MsH-97M&
 
 
 ### Support 
-If you have furhter question, suggestion, job opportunity or just some chat, please feel free to reach me through the link below:  
+If you have furhter question, suggestion, job opportunity or just want to chat, please feel free to reach me through the link below:  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/michael-tsai-37b8b2136/)
 [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> ](https://public.tableau.com/app/profile/michael.tsai7198)
