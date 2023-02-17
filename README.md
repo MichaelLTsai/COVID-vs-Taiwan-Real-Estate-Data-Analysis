@@ -1,6 +1,7 @@
 # COVID-vs-Taiwan-Real-Estate-Data-Analysis
 *Data analysis SQL &amp; Tableau side project*
-
+#### View presentation in [PDF](https://github.com/MichaelLTsai/COVID-vs-Taiwan-Real-Estate-Data-Analysis/blob/b114b8b8bc7b980598adab3d524e49e0ffe06b79/COVID%20vs%20Taiwan%20Real%20Estate%20Portfolio%20Presentation.pdf)  
+  
 
 ## Task
 Analyse COVID-19 data and its impact on Taiwan real estate market
