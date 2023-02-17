@@ -23,6 +23,7 @@ Analyse COVID-19 data and its impact on Taiwan real estate market
 ![image](https://user-images.githubusercontent.com/108915606/219456639-7614f6f7-b515-4bdf-a0d1-4d4e0359210e.png)
 
 ## Interavtive Dashboard Demo
+View on Youtube: [link](https://www.youtube.com/watch?app=desktop&v=1kS9MsH-97M&feature=youtu.be&ab_channel=%E9%9C%96%E8%94%A1)  
 ![tableau_demo2_gif](https://user-images.githubusercontent.com/108915606/219456685-1cc7cf13-ffc7-4bf6-82c9-237c5dbd1a5f.gif)
 
 
