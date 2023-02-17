@@ -1,6 +1,6 @@
 # COVID-vs-Taiwan-Real-Estate-Data-Analysis
 *Data analysis SQL &amp; Tableau side project*
-#### View full version presentation in [PDF](https://github.com/MichaelLTsai/COVID-vs-Taiwan-Real-Estate-Data-Analysis/blob/b114b8b8bc7b980598adab3d524e49e0ffe06b79/COVID%20vs%20Taiwan%20Real%20Estate%20Portfolio%20Presentation.pdf)  
+#### View full version presentation in [PDF](https://github.com/MichaelLTsai/COVID-vs-Taiwan-Real-Estate-Data-Analysis/blob/30e2da5a21f5d9cc85fd71ebbd92d2663090cc0e/Presentation-COVID%20vs%20Taiwan%20Real%20Estate%20Portfolio.pdf)
   
 
 ## Task
